@@ -1,13 +1,13 @@
-# 👋 Hi, I’m @OjasMittal 
+# 👋 Hi, I’m Ojas Mittal 
 
 # 👀 I’m interested in coding, solving problems,making something useful for society!
 
-# 🌱 I’m currently learning app dev,web dev,AI/ML
+# 🌱 I’m currently learning App dev,Web dev,AI/ML
 
 # 💞️ I’m looking to collaborate on projects for hackathons involving use of python and web dev.
 
 ## Why Me?
-- Learn any tech stack faster, better at coping up with new technologies .
+- Love to learn new Tech, better at coping up with new technologies .
 - Have a along side entrepreneurial thought over projects.
 - Have a craze towards computer technologies and love to learn new stuff & working with new people
 - Better understanding of code and has a better problem solving tactics because of working over different projects.
