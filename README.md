@@ -6,6 +6,25 @@
 
 # 💞️ I’m looking to collaborate on projects for hackathons involving use of python and web dev.
 
+## Why Me?
+- Learn any tech stack faster, better at coping up with new technologies .
+- Have a along side entrepreneurial thought over projects.
+- Have a craze towards computer technologies and love to learn new stuff & working with new people
+- Better understanding of code and has a better problem solving tactics because of working over different projects.
+- Better Design Tactics, I make most of the designs of my projects.
+- May be not hardworking but mad at projects that I love to do, I can go sleepless over nights without feeling fatigue in such projects.
+- Better at motivating teammates on a project and has good leadership skills.
+- I can vision on the basis of current market and teammates.
+
+<h1 align = "center">My Tech Stack</h1>
+<div class="scrollmenu" align = "center">
+&nbsp;
+<img  width = "40px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631462530/flutter_lqcbw6.svg" />
+&nbsp;
+	
+<img  width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631462488/python_oab1sq.svg" />
+</div>
+
 <h1 align = "center">Let's Connect!!!</h1>
 <div class="scrollmenu" align = "center">
 	<a href = "https://www.linkedin.com/in/henit-chobisa-260536202/">
