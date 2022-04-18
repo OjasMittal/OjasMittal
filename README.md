@@ -1,4 +1,10 @@
-# 👋 Hi, I’m Ojas Mittal 
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ojas</h1>
+<h3 align="center">I'm a Python Web Developer and an Ethical Hacker.</h3>
+
+
+## 🙋‍  About me
 
 # 👀 I’m interested in coding, solving problems,making something useful for society!
 
@@ -23,6 +29,7 @@
 
 	
 <img  width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631462488/python_oab1sq.svg" />
+<a href="https://www.c.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c.png"/> </a>	
 </div>
 
 <h1 align = "center">Let's Connect!!!</h1>
