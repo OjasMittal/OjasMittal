@@ -6,9 +6,13 @@
 
 # 💞️ I’m looking to collaborate on projects for hackathons involving use of python and web dev.
 
-# 📫 How to reach me-You can contact me at ojasfarm31@gmail.com or on linkdin: https://www.linkedin.com/in/ojas-mittal-13b133225/
+<h1 align = "center">Let's Connect!!!</h1>
+<div class="scrollmenu" align = "center">
+	<a href = "https://www.linkedin.com/in/henit-chobisa-260536202/">
+ <img width = "50px"src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631429597/Self/linkedin_jo0dot.png" />
+ </a>
 &nbsp;
-<a href = "mailto:chobisa.henit@gmail.com">
+<a href = "mailto:ojasfarm31@gmail.com">
  <img width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631429608/Self/gmail_fm9lpo.png" />
  </a>
 &nbsp;
