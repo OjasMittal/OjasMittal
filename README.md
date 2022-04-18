@@ -35,7 +35,7 @@
  <img width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631429608/Self/gmail_fm9lpo.png" />
  </a>
 &nbsp;
-<a href = "https://github.com/HENIT0885">
+<a href = "https://github.com/OjasMittal">
  <img width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631429602/Self/github_j88moo.png" />
 </a>	
 <br>
