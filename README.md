@@ -12,8 +12,9 @@
 - Have a craze towards computer technologies and love to learn new stuff & working with new people
 - Better understanding of code and has a better problem solving tactics because of working over different projects.
 - Better Design Tactics, I make most of the designs of my projects.
-- May be not hardworking but mad at projects that I love to do, I can go sleepless over nights without feeling fatigue in such projects.
+- Hardworking and mad at projects that I love to do, I can go sleepless over nights without feeling fatigue in such projects.
 - Better at motivating teammates on a project and has good leadership skills.
+- Love to help others
 - I can vision on the basis of current market and teammates.
 
 <h1 align = "center">My Tech Stack</h1>
