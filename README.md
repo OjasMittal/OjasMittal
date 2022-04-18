@@ -32,6 +32,22 @@
 <a href="https://www.c.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c.png"/> </a>	
 </div>
 
+<p align="center">
+    <a href="https://github.com/OjasMittal/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="OJAS's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=OjasMittal&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+<!--     <a href="https://github.com/OjasMittal/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="PAARTH's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=OjasMittal&theme=tokyonight_duo"/>
+    </a> -->
+    
+</p>
+
+<h1 align = "center">My GITHUB Stats</h1>
+<div align = "center">
+<img src = "https://github-readme-stats.vercel.app/api?username=OjasMittal&show_icons=true&theme=onedark"/>
+&nbsp;	
+</div>	
+
 <h1 align = "center">Let's Connect!!!</h1>
 <div class="scrollmenu" align = "center">
 	<a href = "https://www.linkedin.com/in/ojas-mittal-13b133225/">
@@ -47,12 +63,7 @@
 </a>	
 <br>
 
-<h1 align = "center">My GITHUB Stats</h1>
-<div align = "center">
-<img src = "https://github-readme-stats.vercel.app/api?username=OjasMittal&show_icons=true&theme=onedark"/>
-&nbsp;
-	
-</div>	
+
 <h1 align = "center">Thank You 😊 !!!</h1>
 	
 
