@@ -40,6 +40,10 @@
 <h1 align = "center">My GITHUB Stats</h1>
 <div align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=OjasMittal&show_icons=true&theme=onedark"/>
+&nbsp;
+<a href = "https://github.com/HENIT0885">
+ <img width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631429602/Self/github_j88moo.png" />
+	</a>	
 </div>	
 
 <!---
