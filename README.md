@@ -34,6 +34,12 @@
  <img width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631429608/Self/gmail_fm9lpo.png" />
  </a>
 &nbsp;
+<br>
+
+<h1 align = "center">My GITHUB Stats</h1>
+<div align = "center">
+<img src = "https://github-readme-stats.vercel.app/api?username=OjasMittal&show_icons=true&theme=onedark"/>
+</div>	
 
 <!---
 OjasMittal/OjasMittal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
