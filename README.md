@@ -27,7 +27,7 @@
 
 <h1 align = "center">Let's Connect!!!</h1>
 <div class="scrollmenu" align = "center">
-	<a href = "https://www.linkedin.com/in/henit-chobisa-260536202/">
+	<a href = "https://www.linkedin.com/in/ojas-mittal-13b133225/">
  <img width = "50px"src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631429597/Self/linkedin_jo0dot.png" />
  </a>
 &nbsp;
