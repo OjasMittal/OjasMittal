@@ -18,9 +18,8 @@
 
 <h1 align = "center">My Tech Stack</h1>
 <div class="scrollmenu" align = "center">
-&nbsp;
-<img  width = "40px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631462530/flutter_lqcbw6.svg" />
-&nbsp;
+
+
 	
 <img  width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631462488/python_oab1sq.svg" />
 </div>
