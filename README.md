@@ -50,11 +50,14 @@
     
 </p>
 
+
+
 <h1 align = "center">My GITHUB Stats</h1>
 <div align = "center">
-<img src = "https://github-readme-stats.vercel.app/api?username=OjasMittal&show_icons=true&theme=onedark"/>
+
 &nbsp;	
 </div>	
+  <a href="https://github.com/OjasMittal/github-readme-stats"><img alt="OJAS's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OjasMittal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
