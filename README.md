@@ -31,15 +31,7 @@
 
 <h1 align = "center">My Tech Stack</h1>
 <div class="scrollmenu" align = "center">
-<img  width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631462437/swift_c4ufka.svg" />
-&nbsp;
-&nbsp;
-<img  width = "40px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631462530/flutter_lqcbw6.svg" />
-&nbsp;
-&nbsp;
-<img  width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631462540/dart_wssxr2.svg" />
-&nbsp;
-&nbsp;
+
 <img  width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631462501/javascript_kmkatb.svg" />
 &nbsp;
 &nbsp;
