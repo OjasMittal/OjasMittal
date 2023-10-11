@@ -31,15 +31,34 @@
 
 <h1 align = "center">My Tech Stack</h1>
 <div class="scrollmenu" align = "center">
+<img  width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631462437/swift_c4ufka.svg" />
+&nbsp;
+&nbsp;
+<img  width = "40px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631462530/flutter_lqcbw6.svg" />
+&nbsp;
+&nbsp;
+<img  width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631462540/dart_wssxr2.svg" />
+&nbsp;
+&nbsp;
+<img  width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631462501/javascript_kmkatb.svg" />
+&nbsp;
+&nbsp;
+<img  width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631463362/nodejs-logo-FBE122E377-seeklogo.com_faj8b3.png" />
+&nbsp;
+&nbsp;
+<img  width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631463513/kisspng-flask-python-bottle-web-framework-web-application-flask-5ace6e9390a584.8245874315234781635925_ltsdgd.jpg" />
+&nbsp;
+&nbsp;
+<img  width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631462549/bootstrap_r6ncuu.svg" />
+&nbsp;
+&nbsp;
+<img  width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631463255/mongodb_original_wordmark_logo_icon_146425_dkfbqc.png" />
+&nbsp;
 
-
-	
 <img  width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631462488/python_oab1sq.svg" />
-<a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-<a href="https://www.c.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c.png"/> </a>
-<a target="_blank"> <img src="https://icons8.com/icon/40669/c%2B%2B"/> </a>
 </div>
+<br>
+<br>
 
 <p align="center">
     <a href="https://github.com/OjasMittal/github-readme-streak-stats">
