@@ -36,8 +36,9 @@
 	
 <img  width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631462488/python_oab1sq.svg" />
 <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
- <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-<a href="https://www.c.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c.png"/> </a>	
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+<a href="https://www.c.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c.png"/> </a>
+<a target="_blank"> <img src="https://img.icons8.com/color/48/000000/c.png"/> </a>
 </div>
 
 <p align="center">
